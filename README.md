@@ -33,7 +33,7 @@ This repository contains code for real-time facial emotion detection using Mobil
 
 * The emotions detected are displayed on the screen in real-time.
 
-*In real-world scenarios, the accuracy may vary depending on various factors such as lighting conditions, facial expressions, and camera angles.
+* In real-world scenarios, the accuracy may vary depending on various factors such as lighting conditions, facial expressions, and camera angles.
 
 # Conclusion:
 
