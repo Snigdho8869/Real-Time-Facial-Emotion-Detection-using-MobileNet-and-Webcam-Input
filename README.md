@@ -5,7 +5,9 @@ This repository contains code for real-time facial emotion detection using Mobil
 
 <img align="right" alt="happy" width="400" src="https://i.ibb.co/4JXgcYd/happy.png">
 
-<img align="right" alt="neutral" width="400" src="https://i.ibb.co/JKQR9WR/neutral.png">
+<img alt="neutral" width="400" src="https://i.ibb.co/JKQR9WR/neutral.png">
+
+
 
 # Requirements:
 
