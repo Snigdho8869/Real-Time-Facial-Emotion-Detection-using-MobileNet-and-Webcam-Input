@@ -1,8 +1,11 @@
 # Facial Emotion Detection using Transfer Learning and Webcam
 
 
-This repository contains code for real-time facial emotion detection using MobileNet pretrained model and webcam feed. The model is trained on the facial expression dataset which consists of 48x48 grayscale images of faces labeled with seven emotions - anger, disgust, fear, happiness, sadness, surprise, and neutral. The model achieved an accuracy of 76.61%.
+This repository contains code for real-time facial emotion detection using MobileNet pretrained model and webcam feed. The model is trained on the facial expression dataset which consists of 224x224 grayscale images of faces labeled with seven emotions - anger, disgust, fear, happiness, sadness, surprise, and neutral. The model achieved an accuracy of 76.61%.
 
+<img align="right" alt="happy" width="400" src="https://i.ibb.co/4JXgcYd/happy.png">
+
+<img align="right" alt="neutral" width="400" src="https://i.ibb.co/JKQR9WR/neutral.png">
 
 # Requirements:
 
