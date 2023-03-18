@@ -40,7 +40,7 @@ This repository contains code for real-time facial emotion detection using Mobil
 
 * In real-world scenarios, the accuracy may vary depending on various factors such as lighting conditions, facial expressions, and camera angles.
 
-# Web-Application
+# Webapplication
 
 This web application of emotion detection involves capturing video of a person's face using a webcam or other camera, and then analyzing that video using machine learning algorithms to identify the person's emotional state. The results then used to adjust the content or user experience of the web application in real-time, based on the person's emotional response.
 
